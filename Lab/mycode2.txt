@@ -1,0 +1,10 @@
+#include<stdio.h>
+#define a=4;
+
+void main()
+{
+    int b,c;
+    b=8;
+    c=a+b;
+    printf("%d",c/3);//data printing
+}

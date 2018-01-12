@@ -1,0 +1,6 @@
+if(i%2==0)printf("even");else printf("Odd");
+if(cnt==1)break;
+iff(k%3==1printf("Divisible by 3");
+
+else
+

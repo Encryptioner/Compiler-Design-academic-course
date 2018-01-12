@@ -1,0 +1,5 @@
+if(i==3);
+if  (divide*3=9) {return;}
+if(i==3)printf("hello\n");else{"go\n"};
+else(printf("not ok\n");)
+iff
